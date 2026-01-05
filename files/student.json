@@ -1,0 +1,20 @@
+{
+    "student1": {
+        "name": "Test",
+        "age": 22,
+        "gender": "M",
+        "email": "test@test.com"
+    },
+    "student2": {
+        "name": "Test2",
+        "age": 22,
+        "gender": "M",
+        "email": "test2@test.com"
+    },
+    "student3": {
+        "name": "Test3",
+        "age": 22,
+        "gender": "M",
+        "email": "test3@test.com"
+    }
+}
