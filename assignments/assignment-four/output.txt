@@ -1,2 +1,2 @@
-Naman
-Test
+Hello Python!
+Learning file handling in Python.
